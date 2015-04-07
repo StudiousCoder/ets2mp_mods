@@ -9,6 +9,6 @@ I will use the following structure in the Build folder:
 \build\ETS2\1.17
 \build\ETS2\1.18
 
-While you should experience any problems using a module 'compiled' for an earlier version, 
+While you shouldn't experience any problems using a module 'compiled' for an earlier version, 
 versions target to your current version might have some optimalisations.
 
